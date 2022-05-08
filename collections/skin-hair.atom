@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.neuherbs.com/collections/skin-hair.atom"/>
+  <title>Neuherbs</title>
+  <updated>2022-04-05T13:33:37+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://www.neuherbs.com/products/7303731871914</id>
+    <published>2022-04-05T13:33:37+05:30</published>
+    <updated>2022-04-05T13:33:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.neuherbs.com/products/anti-aging-combo"/>
+    <title>neuherbs Anti-Aging Combo</title>
+    <s:type></s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/products/skincollagen_vitamine.jpg?v=1648196657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description" style="text-align: justify;">neuherbs Anti-Aging Combo is here to provide a mesmerizing beauty from within. Skin Collagen Booster delivers collagen-boosting vitamins, optimum antioxidants &amp; essential fats along with hyaluronic acid that may help reduce signs of aging like fine lines, wrinkles, scars due to poor wound healing, saggy skin etc. Vitamin E Plus is a 3-in-1 skin-nourishing formula that delivers the benefits of Vitamin E, MCT (Medium Chain Triglycerides) Oil, and Almond oil that helps promote skin rejuvenation and can help manage UV rays skin damage.</p>
+<p class="sort-description"><span style="color: #000000;"><strong>Delivery:</strong></span> <span style="color: #137d63;">Products are usually delivered in 2-5 days.</span></p>
+<p class="sort-description"><span style="color: #ff5c5c;"><strong><span style="color: #000000;">Offers:</span></strong> 10% Off on all products. Code: EXTRA10</span></p>
+<p class="sort-description"><span style="color: #ff5c5c;"><strong><span style="color: #000000;">Offers:</span></strong> 15% Off on Orders Above Rs.1499. Code: NEU15</span></p>
+<ul class="tabs">
+<li>
+<span>Is it beneficial for people above 40 years of age?</span>
+<div>
+<p>Yes, it contains natural plant based ingredients that may help manage early signs of aging usually starts occuring above the age of 30.</p>
+</div>
+</li>
+<li>
+<span>Does it help in improving skin quality damaged by air pollution?</span>
+<div>
+<p>Yes, neuherbs Skin Collagen Booster contains natural antioxidants that help fight skin damage and improve its quality</p>
+</div>
+</li>
+<li>
+<span>What is the shelf-life of the Skin Collagen Booster?</span>
+<div>
+<p>neuherbs Skin Collagen Booster is best before 18 months from the date of manufacture.</p>
+</div>
+</li>
+<li>
+<span>What is the shelf-life of the Vitamin E Plus?</span>
+<div>
+<p>neuherbs Vitamin-E Plus is best before 18 months from the date of manufacture.</p>
+</div>
+</li>
+<li>
+<span>Does it also work for hair?</span>
+<div>
+<p>Yes, the ingredients present in this capsules posseses antioxidants &amp; anti-inflammatory property which help reduce inflammation &amp; improve strength of hair follicles and provide essential oil to the hair, making them healthy.</p>
+</div>
+</li>
+<li>
+<span>What is the age limit for this product?</span>
+<div>
+<p>As per the recommendation, neuherbs Vitamin E Plus capsules should be taken by people above the age of 18 years.</p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Combo Products</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:variant>
+      <id>https://www.neuherbs.com/products/7303731871914</id>
+      <title>Default Title</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NVMSC6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.neuherbs.com/products/7318359867562</id>
+    <published>2022-04-05T13:24:56+05:30</published>
+    <updated>2022-04-05T13:24:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.neuherbs.com/products/hair-growth-and-beauty-combo"/>
+    <title>neuherbs Hair Growth and Beauty Combo</title>
+    <s:type></s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/products/hairskinvitamins_vitamine_88fb006a-4dfd-49c9-b1c3-437d6e284a69.jpg?v=1649144862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1049.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: justify;" class="sort-description">neuherbs Hair Growth and Beauty Combo is a natural formula for everlasting- youthfulness. Hair Skin Vitamins provides a well-balanced combination of vitamins, minerals, herb extracts &amp; amino acids. These nutrients are added specifically due to their health beneficial property for overall hair and skin nourishment. Vitamin E Plus is a 3-in-1 skin-nourishing formula that delivers the benefits of Vitamin E, MCT (Medium Chain Triglycerides) Oil, and Almond oil that helps promote skin rejuvenation and can help manage UV rays skin damage.</p>
+<p class="sort-description"><span style="color: #000000;"><strong>Delivery:</strong></span> <span style="color: #137d63;">Products are usually delivered in 2-5 days.</span></p>
+<p class="sort-description"><span style="color: #ff5c5c;"><strong><span style="color: #000000;">Offers:</span></strong> 10% Off on all products. Code: EXTRA10</span></p>
+<p class="sort-description"><span style="color: #ff5c5c;"><strong><span style="color: #000000;">Offers:</span></strong> 15% Off on Orders Above Rs.1499. Code: NEU15</span></p>
+<ul class="tabs">
+<li>
+<span>How long can I take this?</span>
+<div>
+<p>neuherbs Hair-Skin Vitamin is a unique formula that helps fulfill the requirement of nutrients essential to hair, skin, and nails health. You can take these Hair-Skin capsules as per your beauty goals, lifestyle &amp; dietary pattern.</p>
+</div>
+</li>
+<li>
+<span>Can male consume Hair Skin Vitamin?</span>
+<div>
+<p>Yes! neuherbs Hair-Skin Vitamin is a unique formulation that contains 26 key ingredients- 9 vitamins &amp; 8 minerals, 2 amino acids, with some special ingredients such as Hyaluronic Acid, Collagen Supporter, Primrose Oil, Lycopene, Turmeric Extract, Green Tea Extract and fortified with Glutathione. These ingredients are specifically added to provide the required nourishment to hair, skin &amp; nails. This formulation is for all which means it can be used by both male and females.</p>
+</div>
+</li>
+<li>
+<span>What is the shelf-life?</span>
+<div>
+<p>neuherbs Hair-Skin Vitamin is best before 12 months from the date of manufacture.</p>
+</div>
+</li>
+<li>
+<span>What is the shelf-life of the Vitamin E Plus?</span>
+<div>
+<p>neuherbs Vitamin-E Plus is best before 18 months from the date of manufacture.</p>
+</div>
+</li>
+<li>
+<span>Does it also work for hair?</span>
+<div>
+<p>Yes, the ingredients present in this capsules posseses antioxidants &amp; anti-inflammatory property which help reduce inflammation &amp; improve strength of hair follicles and provide essential oil to the hair, making them healthy.</p>
+</div>
+</li>
+<li>
+<span>What is the age limit for this product?</span>
+<div>
+<p>As per the recommendation, neuherbs Vitamin E Plus capsules should be taken by people above the age of 18 years.</p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Combo Products</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:variant>
+      <id>https://www.neuherbs.com/products/7318359867562</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1049.00</s:price>
+      <s:sku>NVMSC4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.neuherbs.com/products/7094347301034</id>
+    <published>2022-01-14T15:24:50+05:30</published>
+    <updated>2022-01-14T15:24:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.neuherbs.com/products/vitamin-e-plus"/>
+    <title>neuherbs Vitamin E Plus</title>
+    <s:type>Skin Vitamins</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/products/FRONT_cbc6f65d-b078-4764-843e-faea89f1f0ae.jpg?v=1640254240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Skin Vitamins<br>
+        <strong>Price: </strong>
+            399.00 - 749.00
+            <a href="https://www.neuherbs.com/products/vitamin-e-plus">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description">To provide you with the benefits of natural Vitamin E, neuherbs has introduced Vitamin E Plus with Almond Oil. This 3-in-1 skin-nourishing formula delivers the benefits of Vitamin E, MCT (Medium Chain Triglycerides) oil, and Almond oil that helps promote skin rejuvenation and can help curb the skin damage.</p>
+<p class="sort-description"><span style="color: #000000;"><strong>Delivery:</strong></span> <span style="color: #137d63;">Products are usually delivered in 2-5 days.</span></p>
+<p class="sort-description"><span style="color: #ff5c5c;"><strong><span style="color: #000000;">Offers:</span></strong> 10% Off on all products. Code: EXTRA10</span></p>
+<p class="sort-description"><span style="color: #ff5c5c;"><strong><span style="color: #000000;">Offers:</span></strong> 15% Off on Orders Above Rs.1499. Code: NEU15</span></p>
+<h3>— Key Benefits of Vitamin E Plus —</h3>
+<ul class="description-style1">
+<li>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Ideal_For_Managing_Signs_of_Aging.jpg?v=1640260366" data-mce-fragment="1">
+<h4>Vitamin E Plus For Managing Signs of Aging</h4>
+<p>Vitamin E is a fat-soluble antioxidant that helps the skin fight free radical &amp; stress related damage and also help protect from negative impacts of sun rays.</p>
+</li>
+<li>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Ideal_For_Reducing_Inflammation.jpg?v=1640260366" data-mce-fragment="1">
+<h4>Vitamin E Plus For Reducing Inflammation</h4>
+<p>MCT oil (a component of coconut oil) is composed of lauric acid, which is known to possess antimicrobial properties, and helps minimize inflammation in the skin.</p>
+</li>
+<li>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Ideal_For_Building_Radiant_Skin.jpg?v=1640260366" data-mce-fragment="1">
+<h4>Vitamin E Plus For Building Radiant Skin</h4>
+<p>Almond oil is known to be rich in oleic acid (omega-9) which penetrates deep in the skin &amp; locks in the moisture that helps manage dry &amp; dull skin.</p>
+</li>
+</ul>
+<h3>— Key Ingredients —</h3>
+<ul class="description-style1">
+<li>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Vitamin_E_From_Sunflower_Oil.jpg?v=1640260366" data-mce-fragment="1">
+<h4>Vitamin E From Sunflower Oil</h4>
+<p>To maintain skin elasticity</p>
+</li>
+<li>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/MCT_Oil_Medium_Chain_Triglyecrides.jpg?v=1640260366" data-mce-fragment="1">
+<h4>MCT Oil (Medium Chain Triglyecrides)</h4>
+<p>To fight common skin issues</p>
+</li>
+<li>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Almond_Oil.jpg?v=1640260366" data-mce-fragment="1">
+<h4>Almond Oil</h4>
+<p>To keep skin moisturized &amp; smooth</p>
+</li>
+</ul>
+<h3>— How To Use —</h3>
+<ul class="description-style1">
+<li>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Take_one_capsule_91b1dd26-63f5-4202-8d6d-781e552a0754.jpg?v=1640260366" data-mce-fragment="1">
+<h4>Take one capsule</h4>
+</li>
+<li>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/With_1_glass_of_water_4addf555-7b65-4d9b-9d2e-b73a86dc11bd.jpg?v=1640260366" data-mce-fragment="1">
+<h4>With 1 glass of water</h4>
+</li>
+<li>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Once_in_a_day_with_meal.jpg?v=1640260366" data-mce-fragment="1">
+<h4><span>Once in a day after your meal</span></h4>
+</li>
+</ul>
+<ul class="tabs">
+<li>
+<span> What is the shelf-life of the product?</span>
+<div>
+<p>neuherbs Vitamin-E Plus is best before 18 months from the date of manufacture.</p>
+</div>
+</li>
+<li>
+<span>What is the strength of this vitamin E capsule?</span>
+<div>
+<p>Per serving of neuherbs Vitamin E Capsule is of 500 mg.</p>
+</div>
+</li>
+<li>
+<span>Does it also work for hair?</span>
+<div>
+<p>Yes, the ingredients present in this capsules posseses antioxidants &amp; anti-inflammatory property which help reduce inflammation &amp; improve strength of hair follicles and provide essential oil to the hair, making them healthy.</p>
+</div>
+</li>
+<li>
+<span>What is the age limit for this product?</span>
+<div>
+<p>As per the recommendation, neuherbs Vitamin E Plus capsules should be taken by people above the age of 18 years.</p>
+</div>
+</li>
+<li>
+<span>Does the capsule made up of geltain?</span>
+<div>
+<p>No, neuherbs Vitamin E Plus capsules contains veg capsule shell and it is a 100% vegan product.</p>
+</div>
+</li>
+<li>
+<span>How many capsules are there is one bottle?</span>
+<div>
+<p>There are total 30 N capsules available in one bottle of neuherbs Vitamin E Plus.</p>
+</div>
+</li>
+<li>
+<span>Can we apply the oil on skin by opening the capsule?</span>
+<div>
+<p>Yes, you can apply the oil on face by opeing the capsule shell as the capsule contains only natural ingredients. But we recommend you to please do a patch test before proceeding for the same.</p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Launched</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://www.neuherbs.com/products/7094347301034</id>
+      <title>Pack of 1 (30 Capsules)</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>NVEP30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.neuherbs.com/products/7094347301034</id>
+      <title>Pack of 2 (30 Capsules)</title>
+      <s:price currency="INR">749.00</s:price>
+      <s:sku>NVEP30P2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.neuherbs.com/products/6885911265450</id>
+    <published>2021-08-04T12:43:56+05:30</published>
+    <updated>2021-08-04T12:43:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.neuherbs.com/products/skin-collagen-booster"/>
+    <title>Plant-Based Skin Collagen Booster Supplement (Vitamin C, E, Antioxidant blend, Hyaluronic Acid &amp; Biotin). Gluten-free formula for Anti-Ageing Beauty &amp; Glowing Skin</title>
+    <s:type>Skin Vitamins</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/products/NeuherbsSkinCollagen.png?v=1642664779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Skin Vitamins<br>
+        <strong>Price: </strong>
+            789.00 - 1499.00
+            <a href="https://www.neuherbs.com/products/skin-collagen-booster">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description">Natural collagen nutrition to provide ever-lasting youthfulness to the skin. neuherbs is here with plant-based Skin Collagen Booster that delivers collagen-boosting <a href="https://www.neuherbs.com/products/vitamin-e-plus">vitamins</a>, optimum antioxidants &amp; essential fats along with hyaluronic acid.</p>
+<p class="sort-description"><span style="color: #000000;"><strong>Delivery:</strong></span> <span style="color: #137d63;">Products are usually delivered in 2-5 days.</span></p>
+<p class="sort-description"><span style="color: #ff5c5c;"><strong><span style="color: #000000;">Offers:</span></strong> 10% Off on all products. Code: EXTRA10</span></p>
+<p class="sort-description"><span style="color: #ff5c5c;"><strong><span style="color: #000000;">Offers:</span></strong> 15% Off on Orders Above Rs.1499. Code: NEU15</span></p>
+<h3>— Key Benefits —</h3>
+<ul class="description-style1">
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Collagen_boost_For_Skin_Elasticity_a94f260a-e25e-4fd3-a8ef-cab1ad8c2a6c.jpg?v=1643110338" alt="">
+<h4>Collagen boost For Skin Elasticity</h4>
+<p>Collagen production declines as people age, contributing to skin wrinkles and drooping. Skin Collagen Booster provides natural vitamin C that helps promote natural collagen production that gives skin strength and elasticity.</p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/For_reduced_early_signs_of_aging_f735f342-8068-4534-b9df-a2bd78e1ba08.jpg?v=1643110338" alt="">
+<h4>Antioxidants For Early Signs of Aging</h4>
+<p>Antioxidants benefit from green tea, acai berry, goji berry, spirulina &amp; ellagic acid, that helps fight free-radical damage, which can cause early signs of aging.</p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/For_required_nourishment_of_skin.jpg?v=1643110338" alt="">
+<h4>Super Seeds For Essential Oils</h4>
+<p>Goodness of Pumpkin, sesame &amp; quinoa seeds that are known to provide essential fats&amp; minerals to keep skin nourished &amp; radiant.</p>
+</li>
+</ul>
+<h3>— Key Ingredients —</h3>
+<ul class="description-style1">
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Hyaluronic_acid_f8ae510c-0677-4006-a16c-8094390006e2.jpg?v=1643110338" alt="">
+<h4>Hyaluronic Acid</h4>
+<p>To provide lubrication &amp; moisture to skin</p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/goji_berries.jpg?v=1645080573" alt="">
+<h4>Goji Berry</h4>
+<p>To help skin fight free-radicals damage</p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Piperine_Curcumin_943f6a4f-af83-48f0-bf33-ec317d2be8ac.jpg?v=1643110339" alt="">
+<h4>Piperine &amp; Curcumin</h4>
+<p>To deliver better results</p>
+</li>
+</ul>
+<h3>— How To Use —</h3>
+<ul class="description-style1">
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/7_g_1_scoop_of_Neuherbs_Hair_Biotin.png?v=1643110338" alt="">
+<h4>7 g (1 scoop) of neuherbs Skin Collagen Booster</h4>
+<p> </p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/One_glass_200_ml_of_lukewarm_water_or_normal_water_4d5904cd-bb98-4776-8e76-1a71afc2f246.jpg?v=1643110338" alt="">
+<h4>One glass (200 ml) of lukewarm water or normal water</h4>
+<p> </p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/30_minutes_after_your_meal_fc78f3bb-a97b-4197-9eeb-11a154f3bd0d.jpg?v=1643110338" alt="">
+<h4>30 minutes after your meal</h4>
+<p> </p>
+</li>
+</ul>
+<ul class="tabs">
+<li>
+<span> Does it help in improving skin quality damaged by air pollution?</span>
+<div>
+<p>It contains natural antioxidants that help fight skin damage and improve its quality</p>
+</div>
+</li>
+<li>
+<span>Is it beneficial for people above 40 years of age?</span>
+<div>
+<p>Yes, it contains natural plant based ingredients that may help manage early signs of aging usually starts occuring above the age of 30.</p>
+</div>
+</li>
+<li>
+<span>Can we add it to a smoothie?</span>
+<div>
+<p>Yes, you can add it in smoothies as per your taste preference.</p>
+</div>
+</li>
+<li>
+<span>What is its shelf-life? </span>
+<div>
+<p>neuherbs Skin Collagen Booster is best before 18 months from the date of manufacture.</p>
+</div>
+</li>
+<li>
+<span>Can I add lemon to it?</span>
+<div>
+<p>Yes, to enhance its taste you can add lemon in it.</p>
+</div>
+</li>
+<li>
+<span>Does it contain preservatives?</span>
+<div>
+<p>No, neuherbs Collagen booster is a plant-based formula that doesn't contain added preservatives.</p>
+</div>
+</li>
+<li>
+<span>Is it flavoured?</span>
+<div>
+<p>No, neuherbs Skin Collagen booster contains the natural taste and flavour of ingredients from which it has been made.</p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beauty</s:tag>
+    <s:tag>best sellers</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://www.neuherbs.com/products/6885911265450</id>
+      <title>Pack of 1 (210 GM)</title>
+      <s:price currency="INR">789.00</s:price>
+      <s:sku>NSCB210MF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.neuherbs.com/products/6885911265450</id>
+      <title>Pack of 2 (210 GM)</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>NSCB210P2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.neuherbs.com/products/6878589878442</id>
+    <published>2021-07-29T15:45:28+05:30</published>
+    <updated>2021-07-29T15:45:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.neuherbs.com/products/hair-biotin"/>
+    <title>neuherbs Plant-Based Hair Biotin Supplement 3-1 formula natural DHT Blockers Helps to maintain hair growth and reduce hair fall for Men &amp; Women</title>
+    <s:type>Hair Vitamins</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/products/hairbiotin1.jpg?v=1627555457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Hair Vitamins<br>
+        <strong>Price: </strong>
+            649.00 - 1199.00
+            <a href="https://www.neuherbs.com/products/hair-biotin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span data-sheets-formula-bar-text-style="font-size:16px;color:#000000;font-weight:bold;text-decoration:none;font-family:'docs-Calibri';font-style:normal;text-decoration-skip-ink:none;">neuherbs 3-in-1 plant-based Natural Hair Biotin Powder </span><span data-sheets-formula-bar-text-style="font-size:16px;color:#ff0000;font-weight:bold;text-decoration:none;font-family:''docs-Calibri'';font-style:normal;text-decoration-skip-ink:none;">is perfect </span><span data-sheets-formula-bar-text-style="font-size:16px;color:#000000;font-weight:bold;text-decoration:none;font-family:'docs-Calibri';font-style:normal;text-decoration-skip-ink:none;">for hair fall and regrowth. Every ingredient is extracted from natural plant sources to manage hair health naturally.</span></p>
+<p class="sort-description"><span style="color: #000000;"><strong>Delivery:</strong></span> <span style="color: #137d63;">Products are usually delivered in 2-5 days.</span></p>
+<p class="sort-description"><span style="color: #ff5c5c;"><strong><span style="color: #000000;">Offers:</span></strong> 10% Off on all products. Code: EXTRA10</span></p>
+<p class="sort-description"><span style="color: #ff5c5c;"><strong><span style="color: #000000;">Offers:</span></strong> 15% Off on Orders Above Rs.1499. Code: NEU15</span></p>
+<h3>— Key Benefits <span data-mce-fragment="1" data-sheets-formula-bar-text-style="font-size:16px;color:#000000;font-weight:bold;text-decoration:none;font-family:'docs-Calibri';font-style:normal;text-decoration-skip-ink:none;">of Hair Biotin</span> —</h3>
+<ul class="description-style1">
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Fights_Hair_Fall.jpg?v=1643109747" alt="">
+<h4>Hair Biotin Powder For Hair Fall</h4>
+<p>It contains natural DHT Blockers that help reduce hair fall by managing hair follicles shrinkage.</p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Improves_Hair_Quality.jpg?v=1643109747" alt="">
+<h4>Hair Biotin Powder For Good Hair Quality</h4>
+<p>It contains Omega-3 that help improve dull, dry or rough hair by providing essential natural fatty acid</p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Support_Hair_Regrowth.jpg?v=1643109747" alt="">
+<h4>Hair Biotin For Powder Hair Regrowth</h4>
+<p>It contains <strong><a href="https://www.neuherbs.com/products/hair-skin-vitamin" title="natural biotin for hair &amp; skin">natural Biotin</a></strong> (vitamin B7) that is known to be helpful in improving hair regrowth</p>
+</li>
+</ul>
+<h3>— Key Ingredients —</h3>
+<ul class="description-style1">
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Natural_Dht_blocker_4e35a1b2-138f-42c2-88e8-d0bd20c5991e.jpg?v=1643109747" alt="">
+<h4>Natural DHT Blockers</h4>
+<p>For minimizing hair fall</p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/omega_3_6f85c81e-42b7-4a85-9766-5de2120fb3f2.jpg?v=1643109747" alt="">
+<h4>Natural Omega-3</h4>
+<p>For essential fatty acid nourishment</p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Piperine_4efc8559-e5fe-4428-985d-380cbd41f4be.jpg?v=1643109747" alt="">
+<h4>Piperine</h4>
+<p>For enhanced results</p>
+</li>
+</ul>
+<h3>— How To Use —</h3>
+<ul class="description-style1">
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/1_scoop_of_Hair_biotin_3cfb0d4e-c78d-47e1-8c7e-034d3e46d000.jpg?v=1643109747" alt="">
+<h4>5 g (1 scoop) of neuherbs Hair Biotin</h4>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/One_glass_200_ml_of_lukewarm_water_or_normal_water_5197dd9f-b112-4363-b452-431116cd21fe.jpg?v=1643109747" alt="">
+<h4>One glass (200 ml) of lukewarm water or normal water</h4>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/30_minutes_after_your_meal_ebec3bdd-fbd5-4027-8498-07fa53d4f4e4.jpg?v=1643109747" alt="">
+<h4>30 minutes after your meal</h4>
+</li>
+</ul>
+<ul class="tabs">
+<li>
+<span>Does it help in hair fall?</span>
+<div>
+<p>Yes, neuherbs Hair Biotin contains Natural DHT Blockers which help in reducing hair fall.</p>
+</div>
+</li>
+<li>
+<span>Is it a plant-based formula?</span>
+<div>
+<p>Yes, neuherbs Hair Biotin is a complete Plant-based 3-in-1 formula with all plant-based ingredients</p>
+</div>
+</li>
+<li>
+<span>Can we add it to a smoothie?</span>
+<div>
+<p>Yes, you can add it to smoothies as per your taste preference.</p>
+</div>
+</li>
+<li>
+<span>Will it help in greying of hair?</span>
+<div>
+<p>Greying hair is a natural process, in which antioxidants may help reduce the damage of hair, Hair Biotin is a plant-based natural formula that may help provide you with natural antioxidants.</p>
+</div>
+</li>
+<li>
+<span>Can I add lemon to it?</span>
+<div>
+<p>Yes, to enhance its taste you can add lemon into it.</p>
+</div>
+</li>
+<li>
+<span>Does it contain preservatives?</span>
+<div>
+<p>No, it's a complete plant-based natural formula that doesn't contain added preservatives.</p>
+</div>
+</li>
+<li>
+<span>Is it a Non- GMO product?</span>
+<div>
+<p>Yes, it is a Non-GMO product, which also doesn't contain added artificial color &amp; flavor.</p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>Hair Nutrition</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:variant>
+      <id>https://www.neuherbs.com/products/6878589878442</id>
+      <title>Pack of 1 (125 GM)</title>
+      <s:price currency="INR">649.00</s:price>
+      <s:sku>NHB125MF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.neuherbs.com/products/6878589878442</id>
+      <title>Pack of 2 (125 GM)</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku>NHB125P2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.neuherbs.com/products/6871448846506</id>
+    <published>2021-07-25T15:57:10+05:30</published>
+    <updated>2021-07-25T15:57:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.neuherbs.com/products/hair-skin-vitamin"/>
+    <title>neuherbs Hair Skin Vitamins Capsules Supplement for Glowing Skin and Stronger Hair with Biotin, Keratin booster, Turmeric &amp; Primrose Oil for Men and Women</title>
+    <s:type>Hair Skin Vitamin</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/products/HairSkinVitamins.jpg?v=1647328395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Hair Skin Vitamin<br>
+        <strong>Price: </strong>
+            789.00 - 1449.00
+            <a href="https://www.neuherbs.com/products/hair-skin-vitamin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span>neuherbs Hair Skin Vitamins provides a well-balanced combination of vitamins, minerals, and herbs extracts. These nutrients are added specifically due to their beneficial property for overall hair and skin.</span></p>
+<p class="sort-description"><span style="color: #000000;"><strong>Delivery:</strong></span> <span style="color: #137d63;">Products are usually delivered in 2-5 days.</span></p>
+<p class="sort-description"><span style="color: #ff5c5c;"><strong><span style="color: #000000;">Offers:</span></strong> 10% Off on all products. Code: EXTRA10</span></p>
+<p class="sort-description"><span style="color: #ff5c5c;"><strong><span style="color: #000000;">Offers:</span></strong> 15% Off on Orders Above Rs.1499. Code: NEU15</span></p>
+<h3>— Key Benefits of Hair Skin Vitamins —</h3>
+<ul class="description-style1">
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/HSV_For_Flawless_Skin.jpg?v=1643106792" alt="">
+<h4>Hair Skin Vitamins For Flawless Skin</h4>
+<p>The goodness of vitamin C, and other antioxidants like pomegranate extract, &amp; lycopene can help you fight skin damage caused due to daily exposure to the sun &amp; polluted environment.</p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/HSV_For_Stronger_Hair.jpg?v=1643113876" alt="">
+<h4>Hair Skin Vitamins For Stronger Hair</h4>
+<p>The goodness of Amino acids, Biotin, Minerals &amp; Herbs help support the texture &amp; strength of hair affected by poor sleep, stress, and weight-loss diets.</p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/HSV_For_Firm_Nails.jpg?v=1643106792" alt="">
+<h4>Hair Skin Vitamins For Firm Nails</h4>
+<p>The goodness of essential vitamins, minerals &amp; amino acids supports the body's normal functioning and helps manage brittle, discoloured &amp; thin nails which get left out due to busy schedules.</p>
+</li>
+</ul>
+<h3>— Key Ingredients —</h3>
+<ul class="description-style1">
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Hyaluronic_Acid_5eed7fe0-a01d-4c9c-a4e1-08fbfe84ab18.jpg?v=1643017040" alt="">
+<h4>Hyaluronic Acid</h4>
+<p>To deliver essential moisture to skin cells</p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/HSV_Turmeric_Extract.jpg?v=1643106792" alt="">
+<h4>Turmeric Extract</h4>
+<p>To enhance natural beauty from natural herbs support</p>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/pomo.jpg?v=1644920295" alt="">
+<h4>Pomegranate Fruit Extract</h4>
+<p>To protect skin &amp; hair against free-radical damage</p>
+</li>
+</ul>
+<h3>— How To Use —</h3>
+<ul class="description-style1">
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/HSV_Take_one_capsule.jpg?v=1643106792" alt="">
+<h4>Take one capsule</h4>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/HSV_With_1_glass_of_water.jpg?v=1643106792" alt="">
+<h4>With 1 glass of water</h4>
+</li>
+<li>
+<img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/HSV_Twice_a_day_30_minutes_after_meal.jpg?v=1643106792" alt="">
+<h4>Twice a day 30 minutes after a meal</h4>
+</li>
+</ul>
+<ul class="tabs">
+<li>
+<span>How long can I take this?</span>
+<div>
+<p>neuherbs Hair-Skin Vitamin is a unique formula that helps fulfill the requirement of nutrients essential to hair, skin, and nails health. You can take these Hair-Skin capsules as per your beauty goals, lifestyle &amp; dietary pattern.</p>
+</div>
+</li>
+<li>
+<span>Can male consume it?</span>
+<div>
+<p>Yes! neuherbs Hair-Skin Vitamin is a unique formulation that contains 26 key ingredients- 9 vitamins &amp; 8 minerals, 2 amino acids, with some special ingredients such as Hyaluronic Acid, Collagen Supporter, Primrose Oil, Lycopene, Turmeric Extract, Green Tea Extract and fortified with Glutathione. These ingredients are specifically added to provide the required nourishment to hair, skin &amp; nails. This formulation is for all which means it can be used by both male and females.</p>
+</div>
+</li>
+<li>
+<span>Do we have to also take multivitamins along with this for complete care or is this adequate?</span>
+<div>
+<p>neuherbs Hair-Skin Vitamins contain essential vitamins, minerals, amino acids, and herbs support to fulfill the needs for skin &amp; hair care. While a multivitamin is a formula that fulfills daily nutrients requirements for an active and healthy life.</p>
+</div>
+</li>
+<li>
+<span>What is the shelf-life?</span>
+<div>
+<p>neuherbs Hair-Skin Vitamin is best before 12 months from the date of manufacture.</p>
+</div>
+</li>
+<li>
+<span>Is it useful for reducing early -signs of aging?</span>
+<div>
+<p>neuherbs Hair-Skin Vitamins is a unique combination of antioxidants like vitamin C, Collagen supporter, and herbs like turmeric extracts that work as antioxidants, and help fight free-radical damage in hair and skin cells and that can help reduce early signs of aging.</p>
+</div>
+</li>
+<li>
+<span>How it should be stored?</span>
+<div>
+<p>neuherbs Hair Skin Vitamins Keep it in a cool and dry place away from direct sunlight.</p>
+</div>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beauty</s:tag>
+    <s:tag>best sellers</s:tag>
+    <s:tag>By</s:tag>
+    <s:tag>Hair Nutrition</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>Vegetable Capsules</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://www.neuherbs.com/products/6871448846506</id>
+      <title>Pack of 1 (60 Capsules)</title>
+      <s:price currency="INR">789.00</s:price>
+      <s:sku>NHSNC60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.neuherbs.com/products/6871448846506</id>
+      <title>Pack of 2 (60 Capsules)</title>
+      <s:price currency="INR">1449.00</s:price>
+      <s:sku>NHSNC60P2-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
